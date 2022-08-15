@@ -73,7 +73,7 @@ If you used any third-party assets that require attribution, list the creators w
 [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [StackOverFlow](https://stackoverflow.com/?newreg=3845aed72a0448139a31fd9a28a336ae)
 [Concat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
-[Line 67](https://stackoverflow.com/questions/45828805/generate-string-characters-in-javascript)
+[Line 64](https://stackoverflow.com/questions/45828805/generate-string-characters-in-javascript)
 [Const](https://www.w3schools.com/Js/js_const.asp)
 [String Length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 [IsNan](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)

@@ -7,14 +7,17 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation? 
-My motiavtion was for this project was to able to understand the concepts of JavaScript 
+My motiavtion for this project was to able to understand the concepts of JavaScript better. I know feel that I'm confident enough with JavaScipt for now.
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-I builded this prohject because I wanted to lnoq 
+I builded this prohject because I wanted to know how to create a password generator. 
 
 - What problem does it solve?
+The program solves multiple problems. From first creating the function for GeneratePassword becuase it was not defined. After that 
+I writing the condition that opens the prompt window. 
 
 - What did you learn?
+I learned that stackoverflow is very helpful tool. It provides a user with a lot of resources. In addition I also learned that looking in the console option to know where the error is located. It helps a lot of time and energy. I'm also familiar with creating varables, funciontion, adding multiple arays and creating a password generator. 
 
 ## Table of Contents (Optional)
 
@@ -25,9 +28,36 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Accepted Criteria 
+GIVEN I need a new, secure password
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+WHEN I click the button to generate a password
+
+THEN I am presented with a series of prompts for password criteria
+
+WHEN prompted for password criteria
+
+THEN I select which criteria to include in the password
+
+WHEN prompted for the length of the password
+
+THEN I choose a length of at least 8 characters and no more than 128 characters
+
+WHEN asked for character types to include in the password
+
+THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
+
+WHEN I answer each prompt
+
+THEN my input should be validated and at least one character type should be selected
+
+WHEN all prompts are answered
+
+THEN a password is generated that matches the selected criteria
+
+WHEN the password is generated
+
+THEN the password is either displayed in an alert or written to the page
 
 ## Usage
 
@@ -38,11 +68,16 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[StackOverFlow](https://stackoverflow.com/?newreg=3845aed72a0448139a31fd9a28a336ae)
+[Concat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
+[Line 67](https://stackoverflow.com/questions/45828805/generate-string-characters-in-javascript)
+[Const](https://www.w3schools.com/Js/js_const.asp)
+[String Length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+[IsNan](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+
 
 ## License
 
